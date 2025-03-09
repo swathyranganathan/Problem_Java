@@ -7,14 +7,14 @@ public class SubsetArrayHashMap {
         System.out.println("Enter the number of test cases: ");
         int t = Integer.parseInt(read.readLine().trim());
         while (t-- > 0) {
-            System.out.print("Enter elements of array a (space-separated): ");
+            System.out.print("Enter elements of array a: ");
             String line = read.readLine().trim();
             String[] numsStr = line.split(" ");
             int[] a = new int[numsStr.length];
             for (int i = 0; i < numsStr.length; i++) {
                 a[i] = Integer.parseInt(numsStr[i]);
             }
-            System.out.print("Enter elements of array b (space-separated): ");
+            System.out.print("Enter elements of array b: ");
             line = read.readLine().trim();
             numsStr = line.split(" ");
             int[] b = new int[numsStr.length];
