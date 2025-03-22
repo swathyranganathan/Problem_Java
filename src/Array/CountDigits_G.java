@@ -1,6 +1,6 @@
+package Array;
 
 import java.io.*;
-import java.util.*;
 import java.lang.String;
     class CountDigits_G
     {

@@ -1,5 +1,6 @@
+package Array;
+
 import java.util.Scanner;
-import java.util.concurrent.Callable;
 
 public class CheckSortInArray {
     public static void main(String[] args) {

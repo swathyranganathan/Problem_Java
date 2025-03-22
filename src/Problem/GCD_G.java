@@ -1,3 +1,5 @@
+package Problem;
+
 import java.io.*;
 
 public class GCD_G {

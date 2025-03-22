@@ -1,4 +1,4 @@
-import java.util.*;
+package Array;
 
 
 public class LeftRotateArrayBy_D_place {

@@ -1,8 +1,7 @@
-
+package Problem;
 //{ Driver Code Starts
 // Initial Template for Java
 import java.io.*;
-        import java.util.*;
 
 public class ArmstrongNum_G{
     public static void main(String args[]) throws IOException {

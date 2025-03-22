@@ -1,4 +1,5 @@
-import java.io.*;
+package Problem;
+
 import java.util.*;
 class PowerOfNumber {
     // compute reverse of a number

@@ -1,9 +1,7 @@
-//{ Driver Code Starts
+package Problem;//{ Driver Code Starts
 //Initial Template for Java
 
 import java.io.*;
-import java.math.*;
-import java.util.*;
 
 class lastDigitOfPower_G{
     public static void main(String args[]) throws IOException {

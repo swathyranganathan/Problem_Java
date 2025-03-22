@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.Scanner;
 
 class FindMissingNum {
@@ -5,7 +7,7 @@ class FindMissingNum {
         // Loop from 0 to nums.length (inclusive) to find the missing number
         for (int i = 0; i <= nums.length; i++) {
             int flag = 0;
-            // Check if the number i exists in the array
+            // Array.Check if the number i exists in the array
             for (int j = 0; j < nums.length; j++) {
                 if (nums[j] == i) {
                     flag = 1;
@@ -21,7 +23,7 @@ class FindMissingNum {
         return -1;
     }
 
-    // Main method to get input from the user and test the missingNumber function
+    // Problem.Main method to get input from the user and test the missingNumber function
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         FindMissingNum finder = new FindMissingNum();

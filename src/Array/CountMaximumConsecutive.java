@@ -1,3 +1,5 @@
+package Array;
+
 public class CountMaximumConsecutive {
     static int findMaxConsecutive(int[] nums) {
         int cnt = 1; // At least one element exists

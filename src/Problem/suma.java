@@ -1,3 +1,5 @@
+package Problem;
+
 import java.util.Scanner;
 
 public class suma {

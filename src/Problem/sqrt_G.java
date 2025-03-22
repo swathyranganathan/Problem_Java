@@ -1,4 +1,4 @@
-
+package Problem;
 //{ Driver Code Starts
 import java.util.Scanner;
 

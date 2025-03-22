@@ -1,8 +1,7 @@
-//{ Driver Code Starts
+package Problem;//{ Driver Code Starts
 // Initial Template for Java
 
 import java.io.*;
-import java.util.*;
 
 class PerfectNumber{
     public static void main(String args[]) throws IOException {

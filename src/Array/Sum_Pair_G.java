@@ -1,7 +1,7 @@
+package Array;
 
 import java.io.*;
         import java.lang.*;
-        import java.util.*;
 
 
 // } Driver Code Ends
